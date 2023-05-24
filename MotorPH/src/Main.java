@@ -1,6 +1,3 @@
-/**
- * 
- */
 
 /**
  * @author Jeremias, Jhon Anthony
